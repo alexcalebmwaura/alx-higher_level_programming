@@ -2,5 +2,5 @@
 
 
 def raise_exception():
-    """Raise a TypeError exception."""
+    """Funtion that raise a name exception with a message."""
     raise TypeError
